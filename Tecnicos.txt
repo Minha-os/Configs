@@ -1,3 +1,4 @@
 {
- "Jonas":"ativo"
+ "Jonas":"ativo",
+ "Paulo":"inativo"
 }
